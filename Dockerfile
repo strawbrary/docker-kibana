@@ -1,4 +1,4 @@
-FROM ubuntu:utopic
+FROM ubuntu:wily
 MAINTAINER Luis Arias <luis@balsamiq.com>
 
 RUN apt-get update && apt-get -y upgrade
